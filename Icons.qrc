@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ICONS/New Doc.ico</file>
+        <file>ICONS/oval.png</file>
+        <file>ICONS/paint.png</file>
+        <file>ICONS/pencil.png</file>
+        <file>ICONS/rectangle.png</file>
+        <file>ICONS/Save.ico</file>
+        <file>ICONS/Stop 2.ico</file>
+        <file>ICONS/width.png</file>
+        <file>ICONS/line.png</file>
+        <file>ICONS/VentanaPaint.png</file>
+    </qresource>
+</RCC>
